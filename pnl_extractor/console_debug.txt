@@ -1,0 +1,32 @@
+Running PnL Extractor (Batch Mode)... 
+--- Starting Bulk Extraction (2 users) ---
+  > Fetching: CRYINGLITTLEBABY (https://polymarket.com/@CRYINGLITTLEBABY)
+    Saved 189 rows.
+  > Fetching: 0x8dxd (https://polymarket.com/@0x8dxd)
+    Saved 197 rows.
+Done. 386 total rows saved to 'polymarket_full_history.csv'.
+Done. 
+Running PnL Extractor (Batch Mode)... 
+--- Starting Bulk Extraction (2 users) ---
+  > Fetching: CRYINGLITTLEBABY (https://polymarket.com/@CRYINGLITTLEBABY)
+    Saved 189 rows.
+  > Fetching: 0x8dxd (https://polymarket.com/@0x8dxd)
+    Saved 197 rows.
+Done. 386 total rows saved to 'polymarket_full_history.csv'.
+Done. 
+Running PnL Extractor (Batch Mode)... 
+--- Starting Bulk Extraction (2 users) ---
+  > Fetching: CRYINGLITTLEBABY (https://polymarket.com/@CRYINGLITTLEBABY)
+    Saved 189 rows.
+  > Fetching: 0x8dxd (https://polymarket.com/@0x8dxd)
+    Saved 197 rows.
+Done. 386 total rows saved to 'polymarket_full_history.csv'.
+Done. 
+Running PnL Extractor (Batch Mode)... 
+--- Starting Bulk Extraction (2 users) ---
+  > Fetching: CRYINGLITTLEBABY (https://polymarket.com/@CRYINGLITTLEBABY)
+    Saved 189 rows.
+  > Fetching: 0x8dxd (https://polymarket.com/@0x8dxd)
+    Saved 197 rows.
+Done. 386 total rows saved to 'polymarket_full_history.csv'.
+Done. 
